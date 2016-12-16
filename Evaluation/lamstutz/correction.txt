@@ -1,0 +1,15 @@
+repository : https://github.com/lamstutz/ynov_ML
+
+Lamstutz à globalement exploré et compris les fonctions qui pouvais être utiles à 
+l'environnement de développement Jupyter.
+
+- il a mis en opposition, l'age des passagers et la proportion de survie.
+
+Avec le cas particulier suivant : les personnes ayant + de 60 ans ont une proportion de survie plus faible.
+
+Il a fait un histogramme assez intéressant des personnes qui ont survécu par tranche d'age de 10 ans. 
+
+Lamstutz à sû utiliser l'IDE Jupyter et s'adapter à la librairie Pandas. 
+
+C'est de façon logique (manque de temps/temps d'adaption court) qu'il reste des points d'amélioration 
+notament dans la profondeur de l'analyse. Ceci dit, la plupart des éléves sont confrontés à ce même problème..
